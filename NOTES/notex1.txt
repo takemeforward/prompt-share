@@ -1,0 +1,1 @@
+app/layout.js is main entry point for next.js application.
